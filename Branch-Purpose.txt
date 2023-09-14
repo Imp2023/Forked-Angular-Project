@@ -1,0 +1,5 @@
+This branch aims to follow the development of a sample application. 
+The base layout has been found to be insufficient, and hence will be edited. See the requisite jira page
+that I cannot put here. Or ask author. 
+
+Last Modified: Madison Drinkwine; 9/14/2023. 
