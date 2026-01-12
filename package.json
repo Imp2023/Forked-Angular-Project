@@ -9,7 +9,7 @@
     "@angular/core": "16.2.4",
     "@angular/forms": "16.2.4",
     "@types/jasmine": "4.0.3",
-    "@angular/common": "16.2.4",
+    "@angular/common": "19.2.16",
     "@angular/router": "16.2.4",
     "@angular/compiler": "16.2.4",
     "@angular/animations": "16.2.4",
